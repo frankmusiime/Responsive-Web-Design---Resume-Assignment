@@ -14,15 +14,6 @@ This is a fully custom, no-framework personal portfolio and resume website desig
 -  Contact form (client-side or connected to services like Formspree/Netlify Forms)
 -  No templates, no frameworks — fully handcrafted and original
 
----
-
-## 🖼 Live Demo
-> [your-portfolio-domain.com](https://your-portfolio-domain.com)
-
-*(Replace this with your actual link once deployed.)*
-
----
-
 ## Project Structure
 
 ```plaintext
