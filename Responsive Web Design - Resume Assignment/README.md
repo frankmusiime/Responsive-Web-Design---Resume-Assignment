@@ -17,11 +17,6 @@ This is a fully custom, no-framework personal portfolio and resume website desig
 ---
 
 ## 🖼 Live Demo
-> [your-portfolio-domain.com](https://your-portfolio-domain.com)
-
-*(Replace this with your actual link once deployed.)*
-
----
 
 ## Project Structure
 
@@ -42,3 +37,4 @@ portfolio/
 │   └── docs/
 │       └── resume.pdf   # Downloadable CV
 └── README.md
+
